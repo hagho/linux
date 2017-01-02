@@ -1,12 +1,12 @@
-#ubuntu 必备软件:simple_smile:
+#ubuntu 必备软件 :simple_smile:
 
 ##sudo apt-get update
 ##sudo apt-get upgrade
 
 **vim**<br/> 
-    sudo apt-get install vim<br/>
+    sudo apt-get install vim <br/>
 
-**搜狗拼音输入法**<br/> 
+**搜狗拼音输入法**<br/>
 [官网下载](http://pinyin.sogou.com/)<br/>
 
 **chrome**<br/>
