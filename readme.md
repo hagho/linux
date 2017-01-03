@@ -34,3 +34,12 @@ sudo apt-get install shadowsocks-qt5
 ```
 sudo apt-get install python-pip
 ```
+**oh my zsh**<br/>
+```
+sudo apt-get install zsh
+wget https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh -O - | sh
+chsh -s /bin/zsh
+```
+***zsh主题修改***
+修改个人目录下的.zshrc文件<br/>
+[主题](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes)<br/>
