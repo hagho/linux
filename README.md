@@ -42,3 +42,7 @@ chsh -s /bin/zsh
 ```
 ***zsh主题修改***<br/>
 修改个人目录下的.zshrc文件 [主题](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes)<br/>
+
+**远程办公**<br />
+[***MobaXterm***](http://mobaxterm.mobatek.net/)<br />
+[***Sublime SFTP***](https://wbond.net/sublime_packages/sftp)<br />
