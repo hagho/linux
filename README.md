@@ -46,3 +46,8 @@ chsh -s /bin/zsh
 **远程办公**<br />
 [***MobaXterm***](http://mobaxterm.mobatek.net/)<br />
 [***Sublime SFTP***](https://wbond.net/sublime_packages/sftp)<br />
+
+**显示目录树**<br />
+```
+sudo apt-get install tree
+```
