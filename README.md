@@ -46,7 +46,7 @@ chsh -s /bin/zsh
 **远程办公**<br />
 [***MobaXterm***](http://mobaxterm.mobatek.net/)<br />
 [***Sublime SFTP***](https://wbond.net/sublime_packages/sftp)<br />
-[***SFTP破解***](http://blog.csdn.net/rimke/article/details/38975309)<br />
+[***SFTP破解***](http://trully.github.io/blog/2014/05/30/shi-yong-sublime-de-sftp/)<br />
 
 **显示目录树**<br />
 ```
