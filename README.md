@@ -7,6 +7,10 @@
 ```
 sudo apt-get install vim
 ```
+**ssh**<br/>
+```
+sudo apt-get install openssh-server
+```
 
 **搜狗拼音输入法**<br/>
 [官网下载](http://pinyin.sogou.com/)<br/>
